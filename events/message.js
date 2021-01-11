@@ -1,4 +1,6 @@
 const client = require('../index')
+const config = require('./config.json')
+const prefix = config.prefix
 
 client.on('message', async message =>{
     if(message.author.bot) return;
