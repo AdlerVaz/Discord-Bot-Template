@@ -6,8 +6,8 @@
 
 ### If you are you need support on the codes feel free to join the support server!
 
-# Command Handler
-Why not make your code cleaner and easier to acess when you can, follow these easy steps to use a command handler.
+# Command And Event Handler
+Why not make your code cleaner and easier to acess when you can, follow these easy steps to use a command abd event handler.
 
 # Steps
 1. Download the code from the github repo
